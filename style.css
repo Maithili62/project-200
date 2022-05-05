@@ -1,0 +1,119 @@
+.heading
+{
+  width: 100%;
+  margin: 0px;
+  box-shadow:30px 30px 30px grey;
+  font-size: 23px;
+  background-color: black;
+  color: aliceblue;
+}
+.heading_div
+{
+  background: white ; 
+  border-radius: 20px; 
+  color: black;
+  box-shadow:10px 10px 10px grey;
+  padding: 10px;
+  float: none;
+  margin-top: 10px;
+}
+.heading_div2
+{
+  font-size: 18px;
+}
+.result_para_tag
+{
+  box-shadow:5px 5px 5px grey;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+
+.copy_right_footer
+{
+  position: fixed;
+  color: white;
+  background-color: black;
+  bottom: 0;
+  width: 100%;
+  line-height: 3;
+  text-align: center;
+}
+
+.result_para_tag span
+{
+  white-space: pre-line;
+}
+
+#google
+{
+    width: 70px;
+    height: 70px;
+}
+
+.mob
+{
+    font-size: 40px;
+    background-color: red;
+    color: bisque;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.google
+{
+    font-size: 40px;
+    background-color: darkblue;
+    color: bisque;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.ac
+{
+  background-color: rgb(182, 182, 182);
+  border-radius: 70px;
+  border-color:white black;
+  border-style: double;
+  border-width: 16px;
+  height: 600px;
+  width: 1300px;
+}
+
+.pot
+{
+width: 350px;
+height: 500px;
+}
+
+b
+{
+  font-size: 30px;
+}
+
+h5{
+  font-size: 20px;
+font-weight: bolder;
+background-color: white;
+border-radius: 20px;
+height: 50px;
+}
+
+h4
+{
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+
+.result
+{
+  background-color: rgb(50, 50, 50);
+  color: aliceblue;
+  border-radius: 70px;
+  border-color:white black;
+  border-style: double;
+  border-width: 16px;
+  height: 200px;
+  width: 1300px;
+}
